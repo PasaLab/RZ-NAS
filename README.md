@@ -1,5 +1,6 @@
-## Explanation
+# RZ-NAS: Enhancing LLM-guided Neural Architecture Search via Reflective Zero-Cost Strategy
 
+## About
 This is the respository for the paper *RZ-NAS: Enhancing LLM-guided Neural Architecture Search via Reflective Zero-Cost Strategy* . One example of the whole prompt is saved in `template.txt`. More zero-cost proxies and search spaces are saved under the folder `descriptions`. 
 
 
